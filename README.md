@@ -15,8 +15,8 @@ Teste de linguagem **MarkDown**.
    2. item 3
    3. item 4
 3. lista de marcação
-   -[x] Frutas
-   -[] Água
-   -[ ] Legumes
-   -[ ] Feijão
+- [ ] Frutas
+- [x] Água
+- [x] Legumes
+- [ ] Feijão
    
