@@ -34,4 +34,6 @@ Teste de linguagem **MarkDown**.
 [Acesse meu GitHub](https://github.com/FelipeRupertiEsteves)
 
 ## Tabela
-Nome | 
+Num | Nome | Nota
+---|---|---
+1 | Felipe | 10
